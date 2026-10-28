@@ -1,0 +1,6 @@
+# Service account keys are JSON; none belong in this repo.
+*.json
+
+__pycache__/
+.DS_Store
+*-workspace/
